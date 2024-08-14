@@ -9,4 +9,7 @@ I have completed several projects using Java, Python, Power BI, and Excel Dashbo
 🌱 What I'm Learning
 Currently diving deeper into Machine Learning, Artificial Intelligence, and Advanced Data Analytics.
 Exploring more tools and techniques to enhance my skills in Data Science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40YourLinkedInUsername-%230077B5?style=flat&logo=linkedin&logoColor=white)]www.linkedin.com/in/
+aqsa-afzal-21b0a2321
+)
 
