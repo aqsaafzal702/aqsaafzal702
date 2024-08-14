@@ -21,6 +21,6 @@ I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI),
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn 📊🧠
 - **Career Essentials in Business Analysis** by Microsoft and LinkedIn 💼📋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqsa_Afzal-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-afzal-21b0a2321)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqsa_Afzal-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-afzal-21b0a2321)
 
 
