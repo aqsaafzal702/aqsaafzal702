@@ -4,7 +4,7 @@
 I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI), and Data Science, including Data Analytics. I’ve completed several projects using Java, Python, Power BI, and Excel Dashboards, and I'm dedicated to turning data into actionable insights.
 
 🌱 **What I'm Learning:**
-- Exploring new tools and techniques to enhance my skills in Data Science
+- Exploring new tools and techniques to enhance my skills in Data Science 
 
 🛠️ **Skills:**
 - **Programming:** Python, R, Java 
