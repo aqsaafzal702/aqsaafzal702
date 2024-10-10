@@ -1,21 +1,24 @@
-👋 Hi, I'm Aqsa Afzal! I'm an enthusiastic Data Science student currently pursuing my degree at COMSATS University Islamabad.
+# 👋 Hi, I'm Aqsa Afzal!
 
-🔍 **About Me:**
-I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI), and Data Science, including Data Analytics. I’ve completed several projects using Java, Python, Power BI, and Excel Dashboards, and I'm dedicated to turning data into actionable insights.
+I'm a dedicated **Data Science** student at **COMSATS University Islamabad** with a strong passion for uncovering actionable insights from data. I am currently learning **Machine Learning (ML)** and **Data Analytics**.
 
-🌱 **What I'm Learning:**
-- Exploring new tools and techniques to enhance my skills in Data Science 
+## 🔍 About Me
+With hands-on experience in various projects using **Python**, **Java**, **Power BI**, and **Excel**, I am focused on solving real-world problems through data. My journey involves continually learning and applying cutting-edge tools to uncover insights and drive innovation in data science.
 
-🛠️ **Skills:**
-- **Programming:** Python, R, Java 
-- **Tools:** Jupyter Notebooks, Power BI, Excel
-- **Techniques:** Exploratory Data Analysis, Data Visualization
-
-🎓 **Certifications:**
+## 🌱 Current Learning Focus
+- Expanding my knowledge in **Data Science** techniques and tools.
+- Exploring advancements in **Machine Learning** and **AI**.
+  
+## 🎓 Certifications
 - **Career Essentials in Data Analysis** by Microsoft and LinkedIn 📊🧠
 - **Career Essentials in Business Analysis** by Microsoft and LinkedIn 💼📋
-- 🌐 Connect with Me:
+
+## 🤝 Collaboration
+I’m always open to collaborating on exciting **data science** projects. 
+
+## 🌐 Connect with Me
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqsa_Afzal-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-afzal-21b0a2321)
+- [Kaggle](https://www.kaggle.com/aqsachaudry)
 
 ## My Tool Kit
 
@@ -51,22 +54,15 @@ I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI),
   </a>
 </p>
 
-### Platforms & Portfolios:
+### Platforms :
 <p align="left">
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/aqsachaudry" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
   </a>
-  <!-- DataCamp Portfolio -->
-  <a href="https://www.datacamp.com/portfolio/aqsaafzal670" target="_blank">
-    <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" height="40"/>
-  </a>
-</p>
 
-**Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to see my projects and certifications in Python, SQL, and Data Analytics, reflecting my skills and ongoing learning.
+**Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to view my projects and certifications in Python, SQL, and Data Analytics, and Machine learning , showcasing my skills and ongoing learning journey.
 
-
-## GitHub Activeness
 
 <p align="center">
   <!-- GitHub Stats -->
