@@ -64,3 +64,13 @@ I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI),
 </p>
 
 **Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to see my projects and certifications in Python, SQL, and Data Analytics, reflecting my skills and ongoing learning.
+
+
+## GitHub Activeness
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aqsaafzal702&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaafzal702&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
