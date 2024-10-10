@@ -51,14 +51,16 @@ I have a strong passion for Machine Learning (ML), Artificial Intelligence (AI),
   </a>
 </p>
 
-### Platforms:
+### Platforms & Portfolios:
 <p align="left">
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/aqsachaudry" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
   </a>
-  <!-- DataCamp -->
+  <!-- DataCamp Portfolio -->
   <a href="https://www.datacamp.com/portfolio/aqsaafzal670" target="_blank">
     <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" height="40"/>
   </a>
 </p>
+
+**Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to see my projects and certifications in Python, SQL, and Data Analytics, reflecting my skills and ongoing learning.
