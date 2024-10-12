@@ -61,7 +61,7 @@ I’m always open to collaborating on exciting **data science** projects.
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
   </a>
 
-**Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to view my projects and certifications in Python, SQL, and Data Analytics, and Machine learning , showcasing my skills and ongoing learning journey.
+**Explore my [DataCamp Portfolio](https://www.datacamp.com/portfolio/aqsaafzal670)** to view my projects and courses in Python, SQL, Data Analytics, and Machine learning , showcasing my skills and ongoing learning journey.
 
 
 <p align="center">
