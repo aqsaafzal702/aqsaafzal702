@@ -44,27 +44,6 @@
     <img src="https://img.shields.io/badge/DataCamp-003B57?style=for-the-badge&logo=datacamp&logoColor=white" height="30"/>
   </a>
 </p>
-
----
-
-## 📂 Featured Projects
-
-- 🎓 **Student Performance Tracker** – Full-stack app using Next.js, MongoDB  
-  Role-based dashboards for students & teachers with analysis and CRUD  
-  🔗 [View Project](https://github.com/aqsaafzal702/student-performance-tracker-nextjs)
-
-- 📊 **Customer Segmentation App** – Streamlit dashboard using KMeans  
-  🔗 [View Project](https://github.com/...)
-
-- 🚗 **Car Price Predictor** – Machine learning model with interactive UI  
-  🔗 [View Project](https://github.com/...)
-
-- 📈 **Marketing Campaign Classifier** – Predictive ML model on marketing dataset  
-  🔗 [View Project](https://github.com/...)
-
- - 📧 **Email Spam Detection App** – Machine learning model to classify emails as spam or not using Naive Bayes. Includes feature extraction with CountVectorizer and Streamlit-based UI.  
-  🔗 [View Project](https://github.com/aqsaafzal702/email-spam-detector)
-
 ---
 
 ## Connect with Me
